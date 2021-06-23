@@ -1,1 +1,3 @@
-export default {stripe_key: ""}
+export default {
+  stripe_key: ""
+}
